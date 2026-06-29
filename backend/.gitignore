@@ -1,0 +1,67 @@
+# Python environment
+venv/
+.env
+__pycache__/
+*.py[cod]
+
+# Python virtual environments
+.venv/
+env/
+ENV/
+venv/
+
+# Compiled Python files
+*.py[cod]
+*.so
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook cache files
+.ipynb_checkpoints/
+
+# Editor files
+.vscode/
+.idea/
+*.sw?
+
+# Django migrations
+*.migrations/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# pytest cache files
+.pytest_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Large data files
+*.db
+dataset/
+
+# Environment variables
+.env
+
+# Distribution files
+dist/
+build/
+*.egg-info/
+
+# Cython cache
+.cython_cache/
+
+# Any file named TODO.md
+TODO.md
+
+# Any file named README.md
+README.md
